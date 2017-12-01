@@ -11,7 +11,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='edc-prn',
-    version='0.1.1',
+    version='0.1.0',
     author=u'Erik van Widenfelt',
     author_email='ew2789@gmail.com',
     packages=find_packages(),
@@ -22,7 +22,6 @@ setup(
     long_description=README,
     zip_safe=False,
     keywords='django PRN edc',
-    install_requires=['pandas'],
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
