@@ -1,0 +1,4 @@
+git+https://github.com/clinicedc/edc-base@develop#egg=edc-base
+git+https://github.com/clinicedc/edc-metadata@develop#egg=edc-metadata
+
+
