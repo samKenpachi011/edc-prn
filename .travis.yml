@@ -1,7 +1,11 @@
+os: linux
+dist: focal
 language: python
 
 python:
-- 3.6
+  - "3.7"
+  - "3.9"
+  - "3.11"
 
 services:
 - mysql
@@ -21,6 +25,7 @@ before_script:
 - mysql -e 'create database edc character set utf8;'
 
 script:
+- python manage.py check
 - coverage run --source=edc_prn manage.py test
 
 after_success:

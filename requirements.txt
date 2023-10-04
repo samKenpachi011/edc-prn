@@ -1,4 +1,13 @@
-git+https://github.com/clinicedc/edc-base@develop#egg=edc-base
-git+https://github.com/clinicedc/edc-metadata@develop#egg=edc-metadata
+# git+https://github.com/clinicedc/edc-base@develop#egg=edc-base
+# git+https://github.com/clinicedc/edc-metadata@develop#egg=edc-metadata
 
-
+git+https://github.com/botswana-harvard/edc-base.git@08a64f9aa1a17809f8c3bcc6e1ccdb247cdd9880
+git+https://github.com/botswana-harvard/edc-metadata.git@cc0cf2e47d7ba5d074423a49c910682e33503318
+git+https://github.com/botswana-harvard/edc-reference.git@cf77d5877476342830366e91a3fe6cfd4758945e
+git+https://github.com/botswana-harvard/edc-visit-schedule.git@71588bc1e9f1e5218ab524940b11c4ec406fee9f
+git+https://github.com/botswana-harvard/edc-appointment.git@5c8a64f53b54db7a057a296c769d4e69f3400a3b
+git+https://github.com/botswana-harvard/edc-identifier.git@c849cdb598d87082ab2008d7855bd1710e7023de
+git+https://github.com/botswana-harvard/edc-lab.git@6cfecbc2032d00b4cb4cfd27a2550d3d0dd7524d
+git+https://github.com/botswana-harvard/edc-facility.git@3cd82c74b28ec22d16c4d627eff1aaf311af4287
+git+https://github.com/botswana-harvard/edc-label.git@8fe927071ac87507f5d85603cef6c4bbd8a508f9
+git+https://github.com/botswana-harvard/edc-device.git@867751966a4449ffd17719aad11bba6be2a52800
