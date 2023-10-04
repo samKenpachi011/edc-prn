@@ -11,3 +11,4 @@ git+https://github.com/botswana-harvard/edc-lab.git@6cfecbc2032d00b4cb4cfd27a255
 git+https://github.com/botswana-harvard/edc-facility.git@3cd82c74b28ec22d16c4d627eff1aaf311af4287
 git+https://github.com/botswana-harvard/edc-label.git@8fe927071ac87507f5d85603cef6c4bbd8a508f9
 git+https://github.com/botswana-harvard/edc-device.git@867751966a4449ffd17719aad11bba6be2a52800
+git+https://github.com/botswana-harvard/edc-constants.git@70b03cc3c135f242de543123b3c7c9dfce284e67
